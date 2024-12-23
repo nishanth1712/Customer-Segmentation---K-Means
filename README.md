@@ -57,6 +57,6 @@ The project successfully identified actionable customer segments. By targeting h
 
 ---
 
-For questions or suggestions, feel free to reach out or create an issue in the repository.
+For questions or suggestions, feel free to reach out.
 
 Happy analyzing! 🎉
