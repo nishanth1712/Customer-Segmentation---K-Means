@@ -54,6 +54,3 @@ Clustered data and visualizations are generated as outputs to help understand cu
 
 ---
 
-For further inquiries or improvements, feel free to create an issue or reach out.
-
-Happy analyzing! 🎉
